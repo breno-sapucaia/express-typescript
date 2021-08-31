@@ -5,9 +5,9 @@
   🚀 build in progress...  🚧
 </h4>
 
-### 🛠 Tecnologias
+### 🛠 Techs
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The follow techs was used in the project
 
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
