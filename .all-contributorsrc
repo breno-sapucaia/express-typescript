@@ -1,0 +1,35 @@
+{
+  "projectName": "niftastic-backend",
+  "projectOwner": "FotonTech",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "eslint",
+  "contributors": [
+    {
+      "login": "breno-sapucaia",
+      "name": "Breno",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47859444?v=4",
+      "profile": "https://github.com/breno-sapucaia",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+    {
+      "login": "igorlourenco",
+      "name": "Igor Lourenço",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43149318?v=4",
+      "profile": "https://github.com/igorlourenco",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
