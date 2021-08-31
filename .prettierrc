@@ -4,5 +4,6 @@
   "allowParens": "avoid",
   "tabWidth": 2,
   "endOfLine": "lf",
-  "bracketSpacing": true
+  "bracketSpacing": true,
+  "semi": false
 }
