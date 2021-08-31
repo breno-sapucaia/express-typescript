@@ -1,5 +1,8 @@
 {
   "**/*.(ts)": "yarn tsc --noEmit",
-  "**/*.ts": ["eslint 'src/**' --fix", "yarn prettier --write"],
+  "**/*.ts": [
+    "eslint 'src/**' --fix",
+    "yarn prettier --write"
+  ],
   "**/*.(md|json)": "yarn prettier --write"
 }
