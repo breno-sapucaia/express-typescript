@@ -1,17 +1,41 @@
-<h1 align="center">Niftastic Backend</h1>
-<p align="center">An api to provide data an information for Nfistatic DApp </p>
+# Use this template for you backend
 
-<h4 align="center"> 
-  🚀 build in progress...  🚧
-</h4>
+An template for your back end to start coding without need to worry with patterns
 
-### 🛠 Techs
+## Runninng
+
+```bash
+yarn && yarn dev
+```
+
+happy codding 🎉
+
+## 🛠 Technologies
 
 The follow techs was used in the project
 
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Express](https://expressjs.com/)
+- [Husky](https://typicode.github.io/husky/#/)
+- [Prettier](https://prettier.io/)
+- [Eslint](https://eslint.org/)
+- [Commitlint](https://commitlint.js.org/#/)
+- [lint-staged](https://github.com/okonet/lint-staged)
+- [editorconfig](https://editorconfig.org/)
+- [all-contributors](https://github.com/all-contributors/all-contributors)
+
+## 🏗 Architecture
+
+<ul>
+<ol>src</ol>
+<ol>├── controllers</ol>
+<ol>├── database</ol>
+<ol>├── repository</ol>
+<ol>├── routes</ol>
+<ol>├── services</ol>
+<ol>└── types</ol>
+</ul>
 
 ## Contributors ✨
 
@@ -23,9 +47,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/breno-sapucaia"><img src="https://avatars.githubusercontent.com/u/47859444?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Breno</b></sub></a><br /><a href="https://github.com/FotonTech/niftastic-backend/commits?author=breno-sapucaia" title="Code">💻</a> <a href="https://github.com/FotonTech/niftastic-backend/commits?author=breno-sapucaia" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/igorlourenco"><img src="https://avatars.githubusercontent.com/u/43149318?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Igor Lourenço</b></sub></a><br /><a href="https://github.com/FotonTech/niftastic-backend/commits?author=igorlourenco" title="Code">💻</a> <a href="https://github.com/FotonTech/niftastic-backend/commits?author=igorlourenco" title="Documentation">📖</a></td>
   </tr>
 </table>
+<!-- you can edit the .all-contributorsrc to remove my contribuition image, it's just an example :D -->
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
