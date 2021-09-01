@@ -1,6 +1,6 @@
-# Use this template for you backend
+# Use this template for you node backend
 
-An template for your back end to start coding without need to worry with patterns
+An template for your back end to start coding without need to worry with linters
 
 ## Runninng
 
